@@ -91,4 +91,13 @@ a:visited {
   .pimg1, .pimg2, .pimg3 {
     background-attachment: scroll;
   }
+  .ptext {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+    font-size: 15px;
+    text-transform: uppercase;
+  }
 }
